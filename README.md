@@ -1,6 +1,8 @@
 # MOID
 A comprehensive dataset encompassing parameters for characterizing the evolution of minimum orbit intersection distances (MOIDs) for near-Earth asteroids.
 
+The MOID evolution is computed from Jan 1, 2025 to Jan 1, 2225 (therefore the MEI indices and fitting parameters are also valid within this timespan).
+
 This dataset is structured as a CSV-formatted text file (MOID_20240916.csv) containing orbital parameters and MOID characterization parameters for 35,792 near-Earth asteroids (NEAs) as of September 16, 2024, excluding 9 asteroids with confirmed Earth impact records. Each entry includes the following parameters:
 
 1) Asteroid designation
